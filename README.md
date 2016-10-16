@@ -51,3 +51,26 @@ Many links about security (tools, articles, etc...)
 ## Setup server
 * [my first 10 minutes on a server primer](http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/)
 * [my first 10 seconds on a server](http://jerrygamblin.com/2016/07/13/my-first-10-seconds-on-a-server/)
+
+## Security challenges
+
+###Challenges Website
+* [Root-Me] (https://www.root-me.org)
+* [Over The Wire] (http://overthewire.org/wargames/)
+* [Newbie Contest] (https://www.newbiecontest.org/)
+* [Zenk-Security] (https://www.zenk-security.com/index.php)
+* [Exploit Exercises] (https://exploit-exercises.com/)
+* [Hack This] (https://www.hackthis.co.uk/)  
+
+###VM Vulnerable
+* [Vuln Hub] (https://www.vulnhub.com/)
+* [OWASP Vulnerable Web Applications] (https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project)  
+
+###Bug Bounty
+* [Fire Bounty] (https://firebounty.com/)
+
+## Exploits Database and News
+* [Exploit-DB] (https://www.exploit-db.com/)
+* [Full-disclosure mailing list] (http://seclists.org/fulldisclosure/)
+
+
